@@ -47,8 +47,7 @@
 |---------------------------|----------------------------------------------------|
 | `Zylentrix.ipynb`         | Python notebook for data cleaning and analysis     |
 | `Zylentrix_Assesement.pdf`| Final report with insights and recommendations     |
-
----
+| 'Visualizations.pdf'      | Data Visualizaton|
 
 ## ✅ Outcomes
 
