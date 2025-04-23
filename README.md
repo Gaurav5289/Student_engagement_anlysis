@@ -1,8 +1,8 @@
-# 📊 Student Engagement Analysis
+# 📊 Zylentrix Student Engagement Analysis
 
 ## 🎯 Objectives
 
-- Analyze student engagement with various courses on the platform.
+- Analyze student engagement with various courses on the Zylentrix platform.
 - Assess user feedback and identify patterns in course performance.
 - Generate actionable recommendations to enhance learner experience and retention.
 
@@ -12,7 +12,7 @@
 
 - **Python**: Data cleaning, exploratory data analysis (EDA), and statistical insights.
 - **Jupyter Notebook**: Interactive data exploration and visualization.
-- **PDF Report**: Executive summary of findings and recommendations.
+- **PowerPoint/PDF**: Final report and visual summary for stakeholders.
 
 ---
 
@@ -32,6 +32,12 @@
 - Very weak correlation (**-0.05**) between course ratings and actual completions.
 - **Mumbai** and **Kolkata** show lowest enrollments — potential areas for outreach.
 
+### 🖼️ Visualizations
+
+- Graphs and plots to highlight engagement patterns and course performance.
+- Time spent by city, completion rates by course, correlation heatmaps, and more.
+- See the `📊 Visualizations.pdf` for a full summary of key visuals.
+
 ### 📆 Strategic Recommendations
 
 - Redesign low-performing courses with gamification and smart reminders.
@@ -47,7 +53,9 @@
 |---------------------------|----------------------------------------------------|
 | `Zylentrix.ipynb`         | Python notebook for data cleaning and analysis     |
 | `Zylentrix_Assesement.pdf`| Final report with insights and recommendations     |
-| 'Visualizations.pdf'      | Data Visualizaton|
+| `📊 Visualizations.pdf`   | Visual summary of key metrics and findings         |
+
+---
 
 ## ✅ Outcomes
 
@@ -56,3 +64,10 @@
 - Delivered insights to support personalized learning and smarter course design.
 
 ---
+
+## 📬 Contact
+
+**[Your Name]**  
+📧 [your.email@example.com]  
+🔗 [LinkedIn/GitHub URL]
+
