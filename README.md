@@ -1,8 +1,8 @@
-# 📊 Zylentrix Student Engagement Analysis
+# 📊 Student Engagement Analysis
 
 ## 🎯 Objectives
 
-- Analyze student engagement with various courses on the Zylentrix platform.
+- Analyze student engagement with various courses on the platform.
 - Assess user feedback and identify patterns in course performance.
 - Generate actionable recommendations to enhance learner experience and retention.
 
