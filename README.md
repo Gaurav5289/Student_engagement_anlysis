@@ -65,9 +65,3 @@
 
 ---
 
-## 📬 Contact
-
-**[Your Name]**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn/GitHub URL]
-
